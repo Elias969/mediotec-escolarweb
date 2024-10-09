@@ -9,7 +9,7 @@ Este projeto consiste em um sistema escolar com um front-end em React e um back-
 
 ## Front-End
 
-Este repositório contém o código-fonte do front-end do projeto.
+(https://mediotec.netlify.app/)
 
 ### Tecnologias Usadas
 - React
