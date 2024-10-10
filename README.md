@@ -4,8 +4,8 @@ Este projeto consiste em um sistema escolar com um front-end em React e um back-
 
 ## Estrutura do Repositório
 
-- **Front-End:** Repositório do front-end
-- **Back-End:** Repositório do back-end
+- **Front-End:**(https://github.com/Elias969/mediotec-frontend)
+- **Back-End:** (https://github.com/Elias969/mediotec-backend)
 
 ## Front-End
 
